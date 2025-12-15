@@ -1,3 +1,2 @@
 # linux-commands
-- i practice linux commands put them into this repo
-
+Here i will be practicing linux commands and pushing the notes + code (with proof).
